@@ -1,0 +1,125 @@
+[
+    {
+        "name": "Carbon Dioxide",
+        "formula": "CO₂",
+        "components": [
+            {
+                "name": "Carbon",
+                "symbol": "C",
+                "atomic_number": 6,
+                "atomic_mass": 12.011,
+                "category": "nonmetal",
+                "state": "solid"
+            },
+            {
+                "name": "Oxygen",
+                "symbol": "O",
+                "atomic_number": 8,
+                "atomic_mass": 15.999,
+                "category": "nonmetal",
+                "state": "gas"
+            }
+        ],
+        "state": "gas"
+    },
+    {
+        "name": "Carbonic Acid",
+        "formula": "H₂CO₃",
+        "components": [
+            {
+                "name": "Hydrogen",
+                "symbol": "H",
+                "atomic_number": 1,
+                "atomic_mass": 1.008,
+                "category": "Nonmetal",
+                "state": "Gas"
+            },
+            {
+                "name": "Carbon",
+                "symbol": "C",
+                "atomic_number": 6,
+                "atomic_mass": 12.011,
+                "category": "Nonmetal",
+                "state": "Solid"
+            },
+            {
+                "name": "Oxygen",
+                "symbol": "O",
+                "atomic_number": 8,
+                "atomic_mass": 15.999,
+                "category": "Nonmetal",
+                "state": "Gas"
+            }
+        ],
+        "state": "Aqueous"
+    },
+    {
+        "name": "Water",
+        "formula": "H2O",
+        "components": [
+            {
+                "name": "Hydrogen",
+                "symbol": "H",
+                "atomic_number": 1,
+                "atomic_mass": 1.008,
+                "category": "nonmetal",
+                "state": "gas"
+            },
+            {
+                "name": "Oxygen",
+                "symbol": "O",
+                "atomic_number": 8,
+                "atomic_mass": 15.999,
+                "category": "nonmetal",
+                "state": "gas"
+            }
+        ],
+        "state": "liquid"
+    },
+    {
+        "name": "Hydrogen chloride",
+        "formula": "HCl",
+        "components": [
+            {
+                "name": "Hydrogen",
+                "symbol": "H",
+                "atomic_number": 1,
+                "atomic_mass": 1.008,
+                "category": "nonmetal",
+                "state": "gas"
+            },
+            {
+                "name": "Chlorine",
+                "symbol": "Cl",
+                "atomic_number": 17,
+                "atomic_mass": 35.45,
+                "category": "halogen",
+                "state": "gas"
+            }
+        ],
+        "state": "gas"
+    },
+    {
+        "name": "Sodium fluoride",
+        "formula": "NaF",
+        "components": [
+            {
+                "name": "Sodium",
+                "symbol": "Na",
+                "atomic_number": 11,
+                "atomic_mass": 22.989,
+                "category": "alkali metal",
+                "state": "solid"
+            },
+            {
+                "name": "Fluorine",
+                "symbol": "F",
+                "atomic_number": 9,
+                "atomic_mass": 18.998,
+                "category": "halogen",
+                "state": "gas"
+            }
+        ],
+        "state": "solid"
+    }
+]

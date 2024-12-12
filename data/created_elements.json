@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Hydrogen  Oxygen",
+        "formula": "",
+        "components": [],
+        "state": "unknown"
+    },
+    {
+        "name": "Water",
+        "formula": "H2O",
+        "components": [
+            {
+                "name": "Hydrogen",
+                "symbol": "H"
+            },
+            {
+                "name": "Oxygen",
+                "symbol": "O"
+            }
+        ],
+        "state": "liquid"
+    },
+    {
+        "name": "Oxygen  Water",
+        "formula": "",
+        "components": [
+            {
+                "name": "Hydrogen",
+                "symbol": "H"
+            },
+            {
+                "name": "Oxygen",
+                "symbol": "O"
+            }
+        ],
+        "state": "unknown"
+    },
+    {
+        "name": "Calcium phosphate",
+        "formula": "Ca3(PO4)2",
+        "components": [
+            {
+                "name": "Calcium",
+                "symbol": "Ca"
+            },
+            {
+                "name": "Phosphorus",
+                "symbol": "P"
+            },
+            {
+                "name": "Oxygen",
+                "symbol": "O"
+            }
+        ],
+        "state": "solid"
+    },
+    {
+        "name": "Phosphorus  Calcium phosphate",
+        "formula": "",
+        "components": [
+            {
+                "name": "Calcium",
+                "symbol": "Ca"
+            },
+            {
+                "name": "Phosphorus",
+                "symbol": "P"
+            },
+            {
+                "name": "Oxygen",
+                "symbol": "O"
+            }
+        ],
+        "state": "unknown"
+    },
+    {
+        "name": "Carbon Dioxide",
+        "formula": "CO2",
+        "components": [
+            {
+                "name": "Carbon",
+                "symbol": "C"
+            },
+            {
+                "name": "Oxygen",
+                "symbol": "O"
+            }
+        ],
+        "state": "gas"
+    },
+    {
+        "name": "Carbon Monoxide",
+        "formula": "CO",
+        "components": [
+            {
+                "name": "Carbon",
+                "symbol": "C"
+            },
+            {
+                "name": "Oxygen",
+                "symbol": "O"
+            }
+        ],
+        "state": "gas"
+    },
+    {
+        "name": "Carbon Dioxide  Carbon Monoxide",
+        "formula": "",
+        "components": [
+            {
+                "name": "Carbon",
+                "symbol": "C"
+            },
+            {
+                "name": "Oxygen",
+                "symbol": "O"
+            },
+            {
+                "name": "Carbon",
+                "symbol": "C"
+            },
+            {
+                "name": "Oxygen",
+                "symbol": "O"
+            }
+        ],
+        "state": "unknown"
+    },
+    {
+        "name": "Oxygen  Carbon Dioxide  Carbon Monoxide",
+        "formula": "",
+        "components": [
+            {
+                "name": "Carbon",
+                "symbol": "C"
+            },
+            {
+                "name": "Oxygen",
+                "symbol": "O"
+            },
+            {
+                "name": "Carbon",
+                "symbol": "C"
+            },
+            {
+                "name": "Oxygen",
+                "symbol": "O"
+            }
+        ],
+        "state": "unknown"
+    }
+]

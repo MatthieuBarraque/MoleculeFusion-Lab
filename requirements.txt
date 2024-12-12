@@ -1,0 +1,6 @@
+mistral-ai==1.0.0  # For MistralAI API integration
+flask==2.3.2       # For potential API development
+jsonschema==4.19.0 # For validating and managing JSON data
+rich==13.3.4       # For enhanced terminal output
+pydantic==2.1.1    # For managing structured data models
+tk==0.1.0          # For building graphical interfaces
